@@ -1,0 +1,32 @@
+Agenda:
+1) Introduction to Excel
+2) Functions in Excel
+3) Conditional Formatting
+4) LookUp Functions
+5) Pivot Tables
+6) Visualizing data with Charts
+7) Data Validation
+8) Date Functions
+9) Excel Lists and List Functions
+10) What If Analysis
+
+
+
+What is Data Analytics:
+Taking raw data and transforming it into information
+Converts raw data into actionable insight 
+wide range of tools are used to do the drill to ultimately increase the profits made by the business
+
+What is Microsoft Excel?
+A spreadsheet application
+having rows and columns
+also calculation and computational capabilities 
+and graphing tools, pivot tables
+
+
+Big 5
+SUM, AVG, MIN, MAX, COUNT
+
+Explantion about ribbion,etc about the layout
+
+Finally working on coffee dataset
