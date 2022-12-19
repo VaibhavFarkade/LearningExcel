@@ -1,0 +1,74 @@
+Conditional Formatting:->
+
+Step1: Select the desired rows and column, hit conditional formatting in styles ribbon
+
+Step2: Select the appropriate method and if you're constructing a new rule, write an appropriate formula
+
+Step3: Hit Enter and if it does not work check by going in manage rules
+
+It's recommended to select first and then apply then formatting, we can apply to single cell and then drag and apply also.(Only dragging copies the info, we gotta hit the icon and select copy formatting only)
+
+While writing the formula,
+$L$2 < 100
+former $ represents column lock while latter $ represents row lock
+
+$L2 select all the values in L column
+
+100 is the threshold
+
+in the above example, all the selected rows with values of their corresponding L column if less than 100 will be highlighted
+
+
+We can clear formatting on any desired area, by going in manage rules
+
+We can also overlay new rules over the existing rules, i.e applying multiple rules at once, its not recommended however
+
+
+For highlighting all rows, select all rows and then select "use a formula to determine which cell to highlight" in new rule
+
+
+
+
+Data Bars:->
+Select the column, go to Databars, apply appropriate
+
+we can format cells by:
+select desired column, go to cells ribbon> cell width
+hit ok booom
+
+You should do this for better representation of bars
+
+also we can keep only bars by:
+go to manage rules
+edit rule
+format style: data bar | {✓} show bar only
+
+ex. in cases of confidential data such as salaries we may only want to show the bars for relational comparison and not the actual figures
+
+
+Color Scales:-
+This type of representation is also called as heat map
+
+It basically divides column into 3 part only and gives color accordingly
+
+Icon sets:
+Basicall divides the column into 3 parts of 1/3 mathematical range and then assign color based on where does the value falls 
+
+1 2 3 4 5 6 7 8 9 
+G G G Y Y Y R R R
+
+this explains it, also
+
+1 2 3 4 2 6 7 4 9 
+G G G Y G Y R Y R
+
+color/icons are given based on the range and not for the sake of giving equal colors
+
+
+
+--------------------------------------------------------------------
+
+Performed the exercise and the sheet contains lot of useful information
+
+
+
